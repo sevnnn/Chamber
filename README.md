@@ -6,7 +6,7 @@ A Discord webhook app to notify you about your daily Valorant shop!
 
 After downloading the code, you need to make edits to `main.py` vars for the script to run.
 
-`mention_for` is a list of skin ID's that. You can search for skin ID's in [this]() file.
+`mention_for` is a list of skin ID's that. You can search for skin ID's in [this](https://github.com/sevnnn/Chamber/blob/main/id_name.txt) file.
 
 `mention_who` is a text that should be printed when skin from `mention_for` pops in your daily shop. (To actually mention someone on discord you need to edit it to `<@USER_ID_HERE>` ex. `<@123456789012345678>`)
 
@@ -23,4 +23,4 @@ After setting up your vars, simply run the script:
 ```
 
 Then you should be able to see a messege like this in your selected channel.
-![example.png]()
+![example.png](https://raw.githubusercontent.com/sevnnn/Chamber/main/example.png)
